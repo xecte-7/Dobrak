@@ -295,7 +295,7 @@ def fill_info():
 	wordlist_path = str(input(f"{sign_input} Wordlist [default=darkweb2017-top10000.txt] : {clfg_lg}"))
 	print(f"{sign_proc} Checking file availability..")
 	if wordlist_path == '' or wordlist_path == None:
-		wordlist_path = './wordlist/darkweb2017-top10000.txt'
+		wordlist_path = './wordlists/darkweb2017-top10000.txt'
 		try:
 			buka_wlist = open(wordlist_path, 'r', encoding='utf-8')
 			print(f"{sign_plus} Using default wordlist at {wordlist_path}")
