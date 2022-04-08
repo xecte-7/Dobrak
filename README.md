@@ -4,9 +4,12 @@
 ### Installation
 *(Cloning this repository)*
 > git clone https://github.com/xecte-7/Dobrak
+
 *(Entering directory)*
 > cd Dobrak
+
 *(Install dependencies/requirements)*
 > pip install -r requirements.txt
+
 *(Running the program)*
 > python dobrak.py
