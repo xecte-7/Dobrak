@@ -58,7 +58,7 @@ banner = r'''{0}{1}
  Coded by {2}Muhammad Rizky{1} [{2}XECTE-7{1}]
  version {2}1.0{1}
 
- Dobrak: This tool used to perform dictionary/attack
+ Dobrak: This tool used to perform dictionary attack
          on HTML <form> using HTTP request (POST/GET){0}
 '''.format(cl_reset, clfg_w, clfg_r)
 
